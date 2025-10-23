@@ -3,3 +3,4 @@ I have created this repo for documenting my SQL projects. I realized all the pro
 
 | Project Name | Description |
 | ------------ | ----------- |
+| [Market Research for Aerofit]('https://github.com/vivektripathi07/SQL-Projects/tree/main/Market%20Research%20for%20Aerofit') | Worked of store data from aerofit trying to find trends and insights based on sales of treadmill. |
